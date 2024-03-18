@@ -17,7 +17,7 @@ Welcome to my coding playground of cybersecurity related projects! 🚀 Here's a
 ## Let's Connect
 
 - 🐦 [Twitter](https://twitter.com/TheLeopard65): Catch my thoughts in 280 characters or less.
-- 📸 [Instagram](https://www.instagram.com/its_leopard_65/): Behind-the-scenes of my coding journey.
+- 📸 [Instagram](https://www.instagram.com/its_leopard_65/): Behind-the-scenes of my CTF journey.
 - 💼 [LinkedIn](https://www.linkedin.com/in/yasir-mehmood-1699a925a/): Let's make our professional networks collide!
 
 Feel free to explore, fork, and contribute to any of my repositories. Happy coding! 🚀
