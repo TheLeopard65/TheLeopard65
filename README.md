@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-## Welcome to my coding playground of cybersecurity related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
+Welcome to my coding playground of cybersecurity related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
 
 ## WHOAMI
 
