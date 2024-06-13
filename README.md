@@ -15,6 +15,7 @@ Welcome to my coding playground of cybersecurity related projects! 🚀 Here's a
  - Fixer Botnet : [Private](https://github.com/TheLeopard65/Fixer-Botnet)
  - Fixer Attackers : [Public](https://github.com/TheLeopard65/Fixer-Attackers)
  - Fixer Detector : [Public](https://github.com/TheLeopard65/Fixer-Detector)
+ - Port Scanner : [Public](https://github.com/TheLeopard65/Port-Scanner)
  - SSH Honeypot (DEMO) : [Demo](https://github.com/TheLeopard65/SSH-Server-Basic-Honeypot)
 
 ## Let's Connect
