@@ -12,11 +12,11 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - 😄 Pronouns: Code Magician, Debugger Extraordinaire, and Enthusiastic Innovator.
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
-## My Repositories
+## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
  - Fixer Attackers : [Public](https://github.com/TheLeopard65/Fixer-Attackers)
  - Fixer Detector : [Public](https://github.com/TheLeopard65/Fixer-Detector)
- - Port Scanner : [Public](https://github.com/TheLeopard65/Port-Scanner)
+ - WSL2 Setup : [Public](https://github.com/TheLeopard65/WSL2-setup)
  - SSH Honeypot (DEMO) : [Demo](https://github.com/TheLeopard65/SSH-Server-Basic-Honeypot)
 
 ## Let's Connect
@@ -25,4 +25,4 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - 📸 [Instagram](https://www.instagram.com/its_leopard_65/): Behind-the-scenes of my CTF journey. (IN-ACTIVE)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yasir-mehmood-1699a925a/): Let's make our professional networks collide!
 
-Feel free to explore, fork, and contribute to my repositories. Happy coding! 🚀
+You can explore, fork, and contribute to my repositories. Happy coding! 🚀
