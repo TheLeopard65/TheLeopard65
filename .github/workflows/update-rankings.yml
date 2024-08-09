@@ -20,18 +20,18 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests  # Include any other dependencies your script needs
+        pip install requests
 
     - name: Run script
       run: |
-        python fetch-my-rank.py  # Adjust the path if your script is in a subdirectory
+        python fetch-my-rank.py
 
     - name: Commit changes
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add README.md  # Add the file that is updated by your script
+        git add README.md  # Add the file updated by your script
         git commit -m "Update rankings"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
