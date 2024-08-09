@@ -1,8 +1,8 @@
 ## MY RANKINGS & CERTIFICATIONS
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 320px;">
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px;">
-    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 320px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 320px; height: auto;">
+    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
+    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 320px; height: auto;">
 </div>
 
 # HEY THERE! HOW YOU DOING? 👋
