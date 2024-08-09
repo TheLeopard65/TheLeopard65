@@ -12,6 +12,14 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - 😄 Pronouns: Code Magician, Debugger Extraordinaire, and Enthusiastic Innovator.
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
+## MY RANKINGS
+### TryHackMe
+![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Rank%20-%23%23%23)
+
+### HackTheBox
+![HackTheBox Rank](https://img.shields.io/badge/HackTheBox-Rank%20-%23%23%23)
+
+
 ## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
  - Fixer Attackers : [Public](https://github.com/TheLeopard65/Fixer-Attackers)
