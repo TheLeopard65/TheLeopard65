@@ -2,7 +2,7 @@ from selenium import webdriver
 from PIL import Image
 import time
 
-def capture_screenshot(url, x, y, width, height, output_file):
+def HTB_screenshot(url, x, y, width, height, output_file):
     driver = webdriver.Chrome()
     driver.get(url)
     time.sleep(5)
@@ -16,4 +16,4 @@ url = 'https://www.hackthebox.com/profile'
 x, y, width, height = 100, 200, 800, 600
 output_file = 'rank.png'
 
-capture_screenshot(url, x, y, width, height, output_file)
+HTB_screenshot(url, x, y, width, height, output_file)
