@@ -2,8 +2,8 @@ name: Update Rankings
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    - cron: '0 12 * * *'  # Runs daily at 12 PM UTC
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-rankings:
@@ -20,7 +20,10 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install selenium pillow
+        sudo apt-get update
+        sudo apt-get install -y chromium-chromedriver
+        export PATH=$PATH:/usr/lib/chromium-browser
 
     - name: Run script
       run: |
@@ -30,8 +33,8 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add README.md
-        git commit -m "Update rankings"
+        git add README.md screenshot.png
+        git commit -m "Update HTB profile screenshot"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
