@@ -13,11 +13,9 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
 ## MY RANKINGS
-![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Rank%20-%23%23%23)
+![THM Profile](https://tryhackme.com/badge/2689138)
 
-## HTB Profile Screenshot
-
-![HTB Profile](file/screenshot.png)
+![HTB Profile](https://app.hackthebox.com/profile/1998521)
 
 
 ## TOP REPOSITORIES
