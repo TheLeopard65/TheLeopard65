@@ -15,7 +15,7 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 ## MY RANKINGS
 <div style="display: flex; gap: 10px;">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 300px;">
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 300px;">
+    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 100px;">
     <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 300px;">
 </div>
 
