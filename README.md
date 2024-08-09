@@ -1,3 +1,17 @@
+<style>
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .flex-container img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 # HEY THERE! HOW YOU DOING? 👋
 
 Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
@@ -13,12 +27,11 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
 ## MY RANKINGS & CERTIFICATIONS
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 300px; margin-bottom: 20px;">
+<div class="flex-container">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 300px;">
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 100px;">
-    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 300px; margin-bottom: 20px;">
+    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 300px;">
 </div>
-
 
 ## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
