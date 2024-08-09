@@ -13,10 +13,10 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
 ## MY RANKINGS
-![THM Profile](https://tryhackme-badges.s3.amazonaws.com/Leopard65.png)
-
-![HTB Profile](https://www.hackthebox.eu/badge/image/1998521)
-
+<div style="display: flex; gap: 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 150px;">
+    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 150px;">
+</div>
 
 ## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
