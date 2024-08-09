@@ -26,19 +26,18 @@ def get_htb_profile(username, api_token):
         data = response.json()
         return {
             'rank': data.get('rank', 'N/A'),
-            'systems_owned': data.get('systems_owned', 'N/A'),  # Check API response for correct fields
-            'users_owned': data.get('users_owned', 'N/A'),      # Check API response for correct fields
-            'final_score': data.get('final_score', 'N/A'),      # Check API response for correct fields
-            'global_ranking': data.get('global_ranking', 'N/A')  # Check API response for correct fields
+            'systems_owned': data.get('systems_owned', 'N/A'),
+            'users_owned': data.get('users_owned', 'N/A'),
+            'final_score': data.get('final_score', 'N/A'),
+            'global_ranking': data.get('global_ranking', 'N/A')
         }
     except requests.RequestException as e:
         print(f"Error fetching HTB data: {e}")
         return None
 
-# Replace with your actual username and HTB API token
 THM_username = 'Leopard65'
 HTB_username = 'Leopard65'
-HTB_api_token = 'your_htb_api_token'  # Replace with your actual API token
+HTB_api_token = 'your_htb_api_token'
 
 THM_profile = get_tryhackme_profile(THM_username)
 HTB_profile = get_htb_profile(HTB_username, HTB_api_token)
@@ -50,11 +49,9 @@ print(f"Final Score: {THM_profile['final_score']}")
 print(f"Current Global Ranking: {THM_profile['global_ranking']}")
 print(f"HackTheBox Rank: {HTB_profile['rank']}")
 
-# Update README.md with the fetched profile details
 with open('README.md', 'r') as file:
     content = file.readlines()
 
-# Update the lines corresponding to the ranks
 with open('README.md', 'w') as file:
     for line in content:
         if "TryHackMe Rank" in line:
