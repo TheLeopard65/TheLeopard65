@@ -1,10 +1,3 @@
-## MY RANKINGS & CERTIFICATIONS
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 320px; height: auto;">
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
-    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 320px; height: auto;">
-</div>
-
 # HEY THERE! HOW YOU DOING? 👋
 
 Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
@@ -18,6 +11,13 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - 📫 How to reach me: [Drop me a message](mailto:leopardplaysctf@gmail.com) - Let's talk code and creativity!
 - 😄 Pronouns: Code Magician, Debugger Extraordinaire, and Enthusiastic Innovator.
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
+
+## MY RANKINGS & CERTIFICATIONS
+<div style="text-align: center;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 320px; height: auto; margin: 0 10px;">
+    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto; margin: 0 10px;">
+    <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 320px; height: auto; margin: 0 10px;">
+</div>
 
 ## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
