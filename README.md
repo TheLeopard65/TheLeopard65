@@ -3,8 +3,8 @@
     <img align="center" src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
     <img align="center" src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 300px; height: auto;">
 </div>
-<p align="center" style="font-size:36px;">
-HEY THERE! HOW YOU DOING? 👋
+<p align="center"">
+<h1></h1>HEY THERE! HOW YOU DOING? 👋 </h1>
 </p>
 Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
 
