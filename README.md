@@ -15,7 +15,7 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 ## MY RANKINGS
 ![THM Profile](https://tryhackme-badges.s3.amazonaws.com/Leopard65.png)
 
-![HTB Profile](https://app.hackthebox.com/profile/1998521)
+![HTB Profile](File/Screenshot 2024-08-09 200242.png)
 
 
 ## TOP REPOSITORIES
