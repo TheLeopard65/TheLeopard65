@@ -15,7 +15,9 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 ## MY RANKINGS
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Rank%20-%23%23%23)
 
-![HackTheBox Rank](https://img.shields.io/badge/HackTheBox-Rank%20-%23%23%23)
+## HTB Profile Screenshot
+
+![HTB Profile](file/screenshot.png)
 
 
 ## TOP REPOSITORIES
