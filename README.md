@@ -12,12 +12,13 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 - 😄 Pronouns: Code Magician, Debugger Extraordinaire, and Enthusiastic Innovator.
 - ⚡ Fun fact: I can turn coffee into code! ☕💻
 
-## MY RANKINGS
-<div style="display: flex; gap: 10px;">
+## MY RANKINGS & CERTIFICATIONS
+<div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Profile" style="width: 300px;">
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 100px;">
     <img src="https://www.hackthebox.eu/badge/image/1998521" alt="HTB Profile" style="width: 300px;">
 </div>
+
 
 ## TOP REPOSITORIES
  - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
