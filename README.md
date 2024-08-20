@@ -10,7 +10,7 @@ Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a
 
 ## WHOAMI
 
-- 👦 My Real Name is Yasir Mehmood and I was born in Attack, Pakistan. Currently living in Islamabad.
+- 👦 My Real Name is Yasir Mehmood and I was born in Attock, Pakistan. Currently living in Islamabad.
 - 👀 I'm interested in pushing the boundaries of technology and creating cool stuff.
 - 🌱 I’m a BS Cybersecurity student at Air University, Islamabad.
 - 📖 I also recently did my First Offensive Security certification: [INE eJPT Certification](https://certs.ine.com/d56e5d38-1e92-432c-abcd-6739b1ad9bc0).
