@@ -22,7 +22,9 @@
   <li><b>🚀 Discord: </b> <a href="https://discord.com/users/735761355545772054" target="_blank">theleopard65</a></li>
 </ul>
 <h2 align="center"> 💻 TECH & SKILLS: <h2>
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,visualstudio,vscode,linux,vercel,qt,html,css,nginx,docker" alt="TECH ICONS"/>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,git,github,visualstudio,vscode,linux,kali,ubuntu,vercel,qt,html,css,nginx,docker,windows,dotnet,flask,md,notion" alt="TECH ICONS"/>
+</p>
 <h2 align="center"> 📊 QUICK STATS </h2> 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="MY GITHUB STATS">
