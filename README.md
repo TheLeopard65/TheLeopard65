@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi, its <b>Yasir Mehmood</b> </h2> 
+<h1 align="center"> 👋 Hi, its <b>Yasir Mehmood</b> </h1> 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -21,7 +21,7 @@
   <li><b>📧 Email: </b> <a href="mailto:Leopardplaysctf@gmail.com" target="_blank">Leopardplaysctf@gmail.com</a></li>
   <li><b>🚀 Discord: </b> <a href="https://discord.com/users/735761355545772054" target="_blank">theleopard65</a></li>
 </ul>
-# 💻 TECH & SKILLS:
+<h2 align="center"> 💻 TECH & SKILLS: <h2>
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,visualstudio,vscode,linux,vercel,qt,html,css,nginx,docker" alt="TECH ICONS"/>
 <h2 align="center"> 📊 QUICK STATS </h2> 
 <p align="center">
