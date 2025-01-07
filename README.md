@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, its <b>Yasir Mehmood</b> </h1> 
+<h1 align="center"> 👋 Hi, its <b>Yasir Mehmood A.K.A Leopard </b> </h1> 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -30,4 +30,7 @@
 <h2 align="center"> 📊 QUICK STATS </h2> 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="MY GITHUB STATS">
+</p>
+<p align="center">
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheLeopard65&label=PROFILED%20VIEWSs&color=0e75b6&style=flat" alt="TheLeopard65" /> </p>
 </p>
