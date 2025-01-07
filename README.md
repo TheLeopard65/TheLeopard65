@@ -32,5 +32,5 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="MY GITHUB STATS">
 </p>
 <p align="center">
-	<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheLeopard65&label=PROFILED%20VIEWSs&color=0e75b6&style=flat" alt="TheLeopard65" /> </p>
+	<img src="https://komarev.com/ghpvc/?username=TheLeopard65&label=PROFILED%20VIEWS&color=0e75b6&style=flat" alt="TheLeopard65" />
 </p>
