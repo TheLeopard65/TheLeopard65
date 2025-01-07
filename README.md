@@ -1,34 +1,28 @@
+<h2 align="center"> 👋 Hi, its <b>Yasir Mehmood</b> </h2> 
+<p align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bash%20-%2314354C.svg?&style=for-the-badge&logo=bash&logoColor=white"/>
+</p>
+<h2></h2>
+<p align="center"> ⚠️ A WANNA BE PWNER ⚠️ </p>
+<h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Badge" style="width: 300px; height: auto;">
     <img align="center" src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
     <img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 300px; height: auto;">
 </div>
-
-# HEY THERE! HOW YOU DOING? 👋
-
-Welcome to my coding playground of cybersecurity-related projects! 🚀 Here's a sneak peek into the digital world of TheLeopard65.
-
-## WHOAMI
-
-- 👦 My Real Name is Yasir Mehmood and I was born in Attock, Pakistan. Currently living in Islamabad.
-- 👀 I'm interested in pushing the boundaries of technology and creating cool stuff.
-- 🌱 I’m a BS Cybersecurity student at Air University, Islamabad.
-- 📖 I also recently did my First Offensive Security certification: [INE eJPT Certification](https://certs.ine.com/d56e5d38-1e92-432c-abcd-6739b1ad9bc0).
-- 📫 How to reach me: [Drop me a message](mailto:leopardplaysctf@gmail.com) - Let's talk code and creativity!
-- 😄 Pronouns: Code Magician, Debugger Extraordinaire, and Enthusiastic Innovator.
-- ⚡ Fun fact: I can turn coffee into code! ☕💻
-
-## TOP REPOSITORIES
- - Fixer Botnet : [Public](https://github.com/TheLeopard65/Fixer-Botnet)
- - Fixer Attackers : [Public](https://github.com/TheLeopard65/Fixer-Attackers)
- - Fixer Detector : [Public](https://github.com/TheLeopard65/Fixer-Detector)
- - WSL2 Setup : [Public](https://github.com/TheLeopard65/WSL2-setup)
- - SSH Honeypot (DEMO) : [Demo](https://github.com/TheLeopard65/SSH-Server-Basic-Honeypot)
-
-## Let's Connect
-
-- 🐦 [Twitter](https://twitter.com/TheLeopard65): Catch my thoughts in 280 characters or less. `(IN-ACTIVE)`
-- 📸 [Instagram](https://www.instagram.com/its_leopard_65/): Behind-the-scenes of my CTF journey. `(MOSTLY IN-ACTIVE)`
-- 💼 [LinkedIn](https://www.linkedin.com/in/yasir-mehmood-1699a925a/): Let's make our professional networks collide!
-
-You can explore, fork, and contribute to my repositories. Happy coding! 🚀
+<h2></h2>
+<ul>
+  <li><b>🚀 Discord: </b> <a href="https://discord.com/users/735761355545772054" target="_blank">theleopard65</a></li>
+  <li><b>👨🏼‍💻 HackTheBox: </b> <a href="https://app.hackthebox.eu/profile/1998521">TheLeopard65</a></li>
+  <li><b>📧 Email: </b> <a href="mailto:Leopardplaysctf@gmail.com" target="_blank">Leopardplaysctf@gmail.com</a></li>
+  <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/yasir-mehmood-1699a925a/" target="_blank">https://www.linkedin.com/in/yasir-mehmood-1699a925a/</a></li>
+</ul>
+<h2 align="center"> 📊 QUICK STATS </h2> 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="MY GITHUB STATS">
+</p>
