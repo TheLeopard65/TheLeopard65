@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/C%20-%23663399.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/linux%20-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux%20-%23505050.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/bash%20-%2314354C.svg?&style=for-the-badge&logo=bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23FF4500.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%2324292E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
