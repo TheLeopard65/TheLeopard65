@@ -11,7 +11,7 @@
 </p>
 <h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Badge" style="width: 220px; height: auto;">
+    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Badge" style="width: 220px; height: auto;"/>
     <img align="center" src="https://security.ine.com/wp-content/uploads/2023/08/eCPPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
     <img align="center" src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="eJPT Badge" style="width: 150px; height: auto;">
     <img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 220px; height: auto;">
