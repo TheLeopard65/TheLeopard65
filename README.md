@@ -17,8 +17,8 @@
 </div>
 <h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-	<a href="https://tryhackme.com/p/Leopard65" target="_blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Badge" style="width: 300px; height: 80px;" /></a>
-	<a href="https://app.hackthebox.com/profile/1998521" target="_blank"><img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 300px; height: 80px;" /></a>
+	<a href="https://tryhackme.com/p/Leopard65" target="_blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Leopard65.png" alt="THM Badge" style="width: 300px; height: auto;" /></a>
+	<a href="https://app.hackthebox.com/profile/1998521" target="_blank"><img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 300px; height: auto;" /></a>
 </div>
 <h2></h2>
 <ul>
