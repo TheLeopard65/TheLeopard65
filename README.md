@@ -25,6 +25,7 @@
 	<li><b>🕸️ Website: </b> <a href="https://le0pard.vercel.app/" target="_blank" > le0pard.vercel.com </a></li>
 	<li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/yasir-mehmood-1699a925a/" target="_blank"> Yasir Mehmood </a></li>
 	<li><b>👨🏼‍💻 HackTheBox: </b> <a href="https://app.hackthebox.eu/profile/1998521"> TheLeopard65 </a></li>
+	<li><b>👨🏼‍💻 TryHackMe: </b> <a href="https://tryhackme.com/p/Leopard65"> Leopard65 </a></li>
 	<li><b>📧 Email: </b> <a href="mailto:Leopardplaysctf@gmail.com" target="_blank"> Leopardplaysctf@gmail.com </a></li>
 	<li><b>🚀 Discord: </b> <a href="https://discord.com/users/735761355545772054" target="_blank"> theleopard65 </a></li>
 </ul>
@@ -33,5 +34,5 @@
 	<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,powershell,cs,git,github,visualstudio,vscode,linux,vim,debian,kali,ubuntu,vercel,qt,gtk,html,css,tailwind,ts,react,js,nginx,mysql,sqlite,docker,windows,dotnet,flask,md,notion,cmake,npm" alt="TECH ICONS"/>
 </p>
 <h2 align="center"> 📊 QUICK STATS </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="MY GITHUB STATS"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=009dff" alt="MY GITHUB STATS"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TheLeopard65&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="TheLeopard65" /></p>
