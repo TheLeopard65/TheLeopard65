@@ -1,12 +1,14 @@
 <h1 align="center"> 👋 Hi, its <b>Yasir Mehmood A.K.A Leopard </b> </h1> 
 <p align="center">
-	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-	<img src="https://img.shields.io/badge/C%20-%23663399.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/linux%20-%23505050.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
-	<img src="https://img.shields.io/badge/bash%20-%2314354C.svg?&style=for-the-badge&logo=bash&logoColor=white"/>
-	<img src="https://img.shields.io/badge/git%20-%23FF4500.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-	<img src="https://img.shields.io/badge/github%20-%2324292E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Red_Teamer-red"/>
+	<img src="https://img.shields.io/badge/Penetration_Tester-blue"/>
+	<img src="https://img.shields.io/badge/Security_Researcher-grey"/>
+	<img src="https://img.shields.io/badge/Cyber_Security-purple"/>
+	<img src="https://img.shields.io/badge/Uniz_&amp;_Linux-green"/>
+	<img src="https://img.shields.io/badge/Bash_Scripting-blue"/>
+	<img src="https://img.shields.io/badge/Git_&amp;_Github-orange"/>
+	<img src="https://img.shields.io/badge/Python-yellow"/>
+	<img src="https://img.shields.io/badge/C_&amp;_C++-blue"/>
 </p>
 <h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -31,8 +33,10 @@
 </ul>
 <h2 align="center"> 💻 TECH & SKILLS: <h2>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,powershell,cs,git,github,visualstudio,vscode,linux,vim,debian,kali,ubuntu,vercel,qt,gtk,html,css,tailwind,ts,react,js,nginx,mysql,sqlite,docker,windows,dotnet,flask,md,notion,cmake,npm" alt="TECH ICONS"/>
+	<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,regex,cs,git,github,visualstudio,vscode,linux,vim,debian,kali,ubuntu,vercel,heroku,qt,gtk,html,css,tailwind,ts,react,nginx,mysql,sqlite,postgres,latex,opencv,tensorflow,windows,dotnet,flask,md,notion,discord,cmake,npm,docker,ansible,jenkins,kubernetes,terraform" alt="TECH ICONS"/>
 </p>
 <h2 align="center"> 📊 QUICK STATS </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=merko&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=009dff" alt="MY GITHUB STATS"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=TheLeopard65&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="TheLeopard65" /></p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=009dff&hide_border=false" alt="MY GITHUB STATS">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLeopard65&theme=blueberry&hide_border=false" alt="MY GITHUB STREAK">
+</p>
