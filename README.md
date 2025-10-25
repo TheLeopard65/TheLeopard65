@@ -38,5 +38,5 @@
 <h2 align="center"> 📊 QUICK STATS </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=009dff&hide_border=false" alt="MY GITHUB STATS">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLeopard65&theme=blueberry&hide_border=false" alt="MY GITHUB STREAK">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLeopard65&theme=blueberry&border_color=009dff&hide_border=false" alt="MY GITHUB STREAK">
 </p>
