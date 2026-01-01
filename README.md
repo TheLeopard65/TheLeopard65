@@ -37,6 +37,16 @@
 </p>
 <h2 align="center"> 📊 QUICK STATS </h2>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=TheLeopard65&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=009dff&hide_border=false" alt="MY GITHUB STATS">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLeopard65&theme=vue-dark&border_color=009dff&hide_border=false" alt="MY GITHUB STREAK">
+  <a href="https://git.io/awesome-stats-card">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/TheLeopard65?cardType=level&theme=tokyonight&fontFamily=Courier%20Prime&preferLogin=false&show_icons=true&count_private=true&include_all_commits=true&border_color=009dff"
+      alt="My Awesome Github Stats"
+    />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=TheLeopard65&theme=tokyonight&hide_border=false&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="My Awesome Github Streak"
+    />
+  </a>
 </p>
