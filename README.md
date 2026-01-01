@@ -32,11 +32,14 @@
 	<li><b>🚀 Discord: </b> <a href="https://discord.com/users/735761355545772054" target="_blank"> theleopard65 </a></li>
 </ul>
 <h2 align="center"> 💻 TECH & SKILLS: <h2>
-<p align="center">
+<div align="center">
 	<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,regex,cs,git,github,visualstudio,vscode,linux,vim,debian,kali,ubuntu,vercel,heroku,qt,gtk,html,css,tailwind,ts,react,nginx,mysql,sqlite,postgres,latex,opencv,tensorflow,windows,dotnet,flask,md,notion,discord,cmake,npm,docker,ansible,jenkins,kubernetes,terraform" alt="TECH ICONS"/>
-</p>
+</div>
 <h2 align="center"> 📊 QUICK STATS </h2>
+<div align="center">
 
 | My Awesome Github Stats | My Awesome GitHub Streak |
 |:----:|:----:|
 | <a href="https://github.com/TheLeopard65/"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/TheLeopard65?cardType=level&theme=tokyonight&fontFamily=Courier%20New&preferLogin=false&show_icons=true&count_private=true&include_all_commits=true" alt="My Awesome Github Stats" /></a> | <a href="https://github.com/TheLeopard65/"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheLeopard65&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=445&card_height=198" alt="My Awesome GitHub Streak" /></a> |
+
+</div>
