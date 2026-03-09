@@ -20,6 +20,8 @@ The CPTS certification is an advanced 10-days (240 Hours) hands-on exam offered 
 - Gained hands on experience in writing professional penetration testing reports, documenting findings, security & business impact analysis, and providing remediation advice.
 - Understood and applied various well-known penetration testing methodologies (e.g., PTES, OWASP) to structure assessments effectively and professionally.
 
+---
+
 ## INE Certified Professional Penetration Tester (eCPPT)
 
 The eCPPT certification is a 48-hours highly practical, professional-level certification from INE Security that tests a candidate's ability to conduct a full-scale penetration test against a multi-layered corporate network. It requires delivering a comprehensive penetration testing report, demonstrating both technical prowess and professional communication skills in a simulated real-world engagement. By passing the INE Certified Professional Penetration Tester (eCPPT), I have proven myself to have:
@@ -33,6 +35,8 @@ The eCPPT certification is a 48-hours highly practical, professional-level certi
 - Produced a high-quality, executive-ready penetration test report, detailing the complete attack chain, technical findings, business impact analysis, and actionable remediation steps.
 - Reinforced the importance of professional methodology, thorough documentation, and ethical conduct throughout every phase of a security engagement.
 
+---
+
 ## INE Junior Penetration Tester (eJPT)
 
 The eJPT certification is a foundational, entry-level certification from INE Security designed to validate core penetration testing skills through a 100% practical 48-hours exam. It focuses on essential techniques and tools used in real-world assessments, making it an ideal starting point for aspiring security professionals. By passing the INE Junior Penetration Tester (eJPT), I have proven myself to have:
@@ -45,6 +49,8 @@ The eJPT certification is a foundational, entry-level certification from INE Sec
 - Navigated and managed multiple operating systems (Windows and Linux) in a penetration testing context, including file transfers and basic privilege escalation.
 - Applied the core phases of penetration testing: information gathering, scanning and enumeration, exploitation, and post-exploitation fundamentals.
 - Developed the ability to think like an attacker and systematically work through a controlled lab environment to achieve specific objectives.
+
+---
 
 ## THM Junior Penetration Tester (PT1)
 
