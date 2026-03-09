@@ -12,10 +12,10 @@
 </p>
 <h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-	<a href="https://certs.ine.com/473b3c53-aa0c-4e3c-8e4f-564940663ccc#acc.dKwiy3J4" target="_blank"><img align="center" src="Certificates/ejpt.svg" alt="eJPT Certification" style="width: 160px; height: auto;" /></a>
-	<a href="https://www.credly.com/badges/f5ad377e-89a7-4c14-b6ab-9dce35430446" target="_blank"><img align="center" src="Certificates/pt1.svg" alt="eCPPT Certification" style="width: 220px; height: auto;" /></a>
-	<a href="https://www.credly.com/badges/6b445d9c-3236-4d1e-bce4-9800be93428b" target="_blank"><img align="center" src="Certificates/cpts.svg" alt="CPTS Certification" style="width: 220px; height: auto;" /></a>
-	<a href="https://certs.ine.com/d56e5d38-1e92-432c-abcd-6739b1ad9bc0#acc.NSncwG8J" target="_blank"><img align="center" src="Certificates/ecppt.svg" alt="eCPPT Certification" style="width: 170px; height: auto;" /></a>
+	<a href="https://certs.ine.com/473b3c53-aa0c-4e3c-8e4f-564940663ccc#acc.dKwiy3J4" target="_blank"><img align="center" src="Cert-Badges/eJPT.svg" alt="eJPT Certification" style="width: 160px; height: auto;" /></a>
+	<a href="https://www.credly.com/badges/f5ad377e-89a7-4c14-b6ab-9dce35430446" target="_blank"><img align="center" src="Cert-Badges/PT1.svg" alt="eCPPT Certification" style="width: 220px; height: auto;" /></a>
+	<a href="https://www.credly.com/badges/6b445d9c-3236-4d1e-bce4-9800be93428b" target="_blank"><img align="center" src="Cert-Badges/CPTS.svg" alt="CPTS Certification" style="width: 220px; height: auto;" /></a>
+	<a href="https://certs.ine.com/d56e5d38-1e92-432c-abcd-6739b1ad9bc0#acc.NSncwG8J" target="_blank"><img align="center" src="Cert-Badges/cCPPT.svg" alt="eCPPT Certification" style="width: 170px; height: auto;" /></a>
 </div>
 <h2></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -23,6 +23,7 @@
 	<a href="https://app.hackthebox.com/profile/1998521" target="_blank"><img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 300px; height: auto;" /></a>
 </div>
 <h2></h2>
+<p>I’m a Sixth-semester BS Cybersecurity student at Air University, Islamabad. I'm interested in field of Cybersecurity, Programming, Ethical Hacking & Penetration Testing, Red Teaming, Security & Vulnerability Research, and CTFs.</p>
 <ul>
 	<li><b>🕸️ Website: </b> <a href="https://le0pard.vercel.app/" target="_blank" > le0pard.vercel.app </a></li>
 	<li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/yasir-mehmood-l65/" target="_blank"> Yasir Mehmood </a></li>
