@@ -21,7 +21,7 @@
 
 ### Pre Security
 
-The Pre Security learning path is a beginner-friendly introduction to core cybersecurity concepts, designed to build foundational knowledge before diving into offensive security. It covers essential topics like networking, web fundamentals, and security basics. This path includes foundational rooms such as *"Intro to LAN," "HTTP in Detail,"* and *"Linux Fundamentals"* that provide hands-on experience with basic system navigation and network concepts. By completing this path, I have proven myself to have:
+The Pre Security learning path is a beginner-friendly introduction to core cybersecurity concepts, designed to build foundational knowledge before diving into offensive security. It covers essential topics like networking, web fundamentals, and security basics. This path includes foundational rooms such as *"Intro to LAN"*, *"HTTP in Detail"*, and *"Linux Fundamentals"* that provide hands-on experience with basic system navigation and network concepts. By completing this path, I have proven myself to have:
 
 - Understood basic networking concepts including the OSI model, TCP/IP, and common protocols.
 - Learned how web applications work, including HTTP/HTTPS requests, responses, and methods.
@@ -32,7 +32,7 @@ The Pre Security learning path is a beginner-friendly introduction to core cyber
 
 ### Cyber Security 101
 
-The Cyber Security 101 learning path provides a broad introduction to the field of cybersecurity, covering both theoretical concepts and practical applications. It serves as a stepping stone for anyone starting their journey in security. This path features rooms like *"Intro to Cyber Security," "Principles of Security,"* and introductory CTF challenges that simulate real-world scenarios. By completing this path, I have proven myself to have:
+The Cyber Security 101 learning path provides a broad introduction to the field of cybersecurity, covering both theoretical concepts and practical applications. It serves as a stepping stone for anyone starting their journey in security. This path features rooms like *"Intro to Cyber Security"*, *"Principles of Security"*, and introductory CTF challenges that simulate real-world scenarios. By completing this path, I have proven myself to have:
 
 - Learned fundamental security principles like the CIA triad, authentication, and access control.
 - Explored different career paths and specializations within the cybersecurity industry.
@@ -54,7 +54,7 @@ The Jr Penetration Tester learning path is designed to teach the core skills req
 
 ### Web Fundamentals
 
-The Web Fundamentals learning path focuses on understanding how web technologies work and the security implications behind them. It is essential for anyone looking to specialize in web application security. This path comprises essential rooms such as *"HTTP in Detail," "Burp Suite: The Basics,"* and *"Intro to SSRF"* that build a strong foundation in web technologies. By completing this path, I have proven myself to have:
+The Web Fundamentals learning path focuses on understanding how web technologies work and the security implications behind them. It is essential for anyone looking to specialize in web application security. This path comprises essential rooms such as *"HTTP in Detail"*, *"Burp Suite: The Basics"*, and *"Intro to SSRF"* that build a strong foundation in web technologies. By completing this path, I have proven myself to have:
 
 - Learned how the HTTP protocol works including requests, responses, headers, and status codes.
 - Understood client-side technologies like HTML, CSS, and JavaScript and their security considerations.
@@ -65,7 +65,7 @@ The Web Fundamentals learning path focuses on understanding how web technologies
 
 ### Web Application Pentesting
 
-The Web Application Pentesting learning path dives deep into identifying and exploiting vulnerabilities in web applications. It follows OWASP methodologies and provides practical experience with real-world attack scenarios. This path features notable rooms including *"OWASP Top 10," "OWASP Juice Shop"* (a deliberately vulnerable web application), and *"Authentication Bypass"* with hands-on capture-the-flag challenges. By completing this path, I have proven myself to have:
+The Web Application Pentesting learning path dives deep into identifying and exploiting vulnerabilities in web applications. It follows OWASP methodologies and provides practical experience with real-world attack scenarios. This path features notable rooms including *"OWASP Top 10"*, *"OWASP Juice Shop"* (a deliberately vulnerable web application), and *"Authentication Bypass"* with hands-on capture-the-flag challenges. By completing this path, I have proven myself to have:
 
 - Identified and exploited OWASP Top 10 vulnerabilities including SQLi, XSS, and CSRF.
 - Learned advanced Burp Suite usage for automated scanning, repeater, intruder, and sequencer.
@@ -76,7 +76,7 @@ The Web Application Pentesting learning path dives deep into identifying and exp
 
 ### Offensive Pentesting
 
-The Offensive Pentesting learning path focuses on advanced penetration testing techniques and methodologies used in professional engagements. It covers everything from initial access to domain compromise. This path contains advanced rooms such as *"Buffer Overflow Prep," "Active Directory Basics," "Hololive"* (a challenging AD environment), and *"Wreath"* (a multi-network pivoting challenge). By completing this path, I have proven myself to have:
+The Offensive Pentesting learning path focuses on advanced penetration testing techniques and methodologies used in professional engagements. It covers everything from initial access to domain compromise. This path contains advanced rooms such as *"Buffer Overflow Prep"*, *"Active Directory Basics"*, *"Hololive"* (a challenging AD environment), and *"Wreath"* (a multi-network pivoting challenge). By completing this path, I have proven myself to have:
 
 - Mastered buffer overflow exploitation on Windows systems, including SEH and Egghunter techniques.
 - Learned Active Directory enumeration and exploitation, including Kerberoasting and pass-the-hash.
@@ -87,7 +87,7 @@ The Offensive Pentesting learning path focuses on advanced penetration testing t
 
 ### Red Teaming
 
-The Red Teaming learning path simulates real-world adversary operations, focusing on evading defenses and achieving specific objectives without detection. It goes beyond traditional penetration testing. This path consists of specialized rooms including *"Red Team Recon," "Atomic Red Team"* for detection testing, and *"C2: Command & Control"* frameworks like Covenant and Metasploit. By completing this path, I have proven myself to have:
+The Red Teaming learning path simulates real-world adversary operations, focusing on evading defenses and achieving specific objectives without detection. It goes beyond traditional penetration testing. This path consists of specialized rooms including *"Red Team Recon"*, *"Atomic Red Team"* for detection testing, and *"C2: Command & Control"* frameworks like Covenant and Metasploit. By completing this path, I have proven myself to have:
 
 - Understood the red teaming methodology including adversary emulation and threat modeling.
 - Learned evasion techniques to bypass AV/EDR solutions using custom tooling and obfuscation.
@@ -98,7 +98,7 @@ The Red Teaming learning path simulates real-world adversary operations, focusin
 
 ### CompTIA Pentest+
 
-The CompTIA Pentest+ learning path covers the official exam objectives for the CompTIA Pentest+ certification, focusing on penetration testing skills and knowledge required for professional assessments. This path includes rooms aligned with the exam domains, featuring *"Pentesting Fundamentals," "Vulnerability Research,"* and *"Report Writing"* with practical exercises. By completing this path, I have proven myself to have:
+The CompTIA Pentest+ learning path covers the official exam objectives for the CompTIA Pentest+ certification, focusing on penetration testing skills and knowledge required for professional assessments. This path includes rooms aligned with the exam domains, featuring *"Pentesting Fundamentals"*, *"Vulnerability Research"*, and *"Report Writing"* with practical exercises. By completing this path, I have proven myself to have:
 
 - Understood planning and scoping phases of penetration testing engagements including legal and compliance considerations.
 - Learned information gathering and vulnerability identification techniques using various scanning tools.
