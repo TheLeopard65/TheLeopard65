@@ -23,7 +23,7 @@
 	<a href="https://app.hackthebox.com/profile/1998521" target="_blank"><img align="center" src="https://www.hackthebox.com/badge/image/1998521" alt="HTB Badge" style="width: 300px; height: auto;" /></a>
 </div>
 <h2></h2>
-<p>I’m a Sixth-semester BS Cybersecurity student at Air University, Islamabad. I'm interested in field of Cybersecurity, Programming, Ethical Hacking & Penetration Testing, Red Teaming, Security & Vulnerability Research, and CTFs.</p>
+<p>I am a Sixth-semester BS Cybersecurity student at Air University, Islamabad. I am interested in field of Cybersecurity, Programming, Ethical Hacking & Penetration Testing, Red Teaming, Security & Vulnerability Research, and CTFs.</p>
 <ul>
 	<li><b>🕸️ Website: </b> <a href="https://le0pard.vercel.app/" target="_blank" > le0pard.vercel.app </a></li>
 	<li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/yasir-mehmood-l65/" target="_blank"> Yasir Mehmood </a></li>
