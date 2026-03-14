@@ -1,8 +1,10 @@
 # TryHackMe (THM) Achievements
 
-<div align="center">
-  <img src="https://tryhackme.com/img/logo.svg" alt="THM Logo" width="350"/>
-</div>
+---
+
+- [My THM Profile: Leopard65](https://tryhackme.com/p/Leopard65)
+
+---
 
 ## 📊 Profile Overview
 
@@ -12,7 +14,6 @@
 - **Level:** 13 (0xD)
 - **Completed Rooms:** 257
 - **Badges Earned:** 31
-- **Streak:** 0 days (Recently In-Active)
 
 ## 🏅 Certifications
 
@@ -48,10 +49,5 @@ I have Completed 8 learning paths on TryHackMe - all listed on resume:
 - Offensive Pentesting
 - Red Teaming
 - CompTIA Pentest+
-
-
-## 🔗 Verification
-
-- [THM Profile: Leopard65](https://tryhackme.com/p/Leopard65)
 
 ---

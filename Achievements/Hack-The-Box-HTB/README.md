@@ -1,8 +1,10 @@
 # Hack The Box (HTB) Achievements
 
-<div align="center">
-  <img src="https://www.hackthebox.com/images/logo-htb.svg" alt="Hack The Box (HTB)" width="350"/>
-</div>
+---
+
+- [My HTB Profile: Leopard65](https://app.hackthebox.com/users/1998521)
+
+---
 
 ## 📊 Profile Overview
 
@@ -46,14 +48,12 @@
 - I (Leopard65) is consistently ranked among top players in Pakistan.
 - The current top 3 in Pakistan include (December, 2025 & Onwards):
 
-1. Danish4Ahmed
-2. HusnainAbid
-3. Leopard65
+| Rank | Username         |
+| ---- | ---------------- |
+| 1st  | Danish4Ahmed     |
+| 2nd  | HusnainAbid      |
+| 3rd  | `Leopard65` (Me) |
 
-- My global rank of #159 places me well within the top tier of Pakistani hackers.
-
-## 🔗 Verification
-
-- [HTB Profile: Leopard65](https://app.hackthebox.com/users/1998521)
+- My global rank of ~160th (Global) places me well within the top tier of Pakistani hackers.
 
 ---
