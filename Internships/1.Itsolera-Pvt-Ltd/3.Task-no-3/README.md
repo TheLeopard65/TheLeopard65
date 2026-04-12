@@ -2,7 +2,7 @@
 
 ## Task: CVE Exploit Research & Lab Development
 
-## Deadline: March 18th, 2026.
+## Deadline Date: February 28th, 2026.
 
 ---
 

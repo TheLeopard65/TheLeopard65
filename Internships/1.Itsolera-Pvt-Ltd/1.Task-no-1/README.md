@@ -2,7 +2,7 @@
 
 ## Task: An Automated Reconnaissance Tool for DNS
 
-## Deadline: January 24th, 2026.
+## Deadline Date: January 31th, 2026.
 
 ---
 

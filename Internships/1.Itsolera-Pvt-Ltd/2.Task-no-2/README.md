@@ -2,7 +2,7 @@
 
 ## Task: Payload Generation Framework Development
 
-## Deadline: February 20th, 2026.
+## Deadline Date: February 15th, 2026.
 
 ---
 
