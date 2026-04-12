@@ -41,8 +41,8 @@ Created as a 1st semester cybersecurity lab project (2023).
 
 ```bash
 # Clone the repository
-git clone https://github.com/TheLeopard65/basic-ssh-honeypot.git
-cd basic-ssh-honeypot
+git clone https://github.com/TheLeopard65/SSH-Honeypot.git
+cd SSH-Honeypot
 
 # Install dependency
 pip install paramiko
