@@ -14,6 +14,8 @@
 - [Selection Certificate](1.Itsolera-Pvt-Ltd/Documents/1.Itsolera-Red-Team-Internship---Selection-Certificate.pdf)
 - [Selection Email 1](1.Itsolera-Pvt-Ltd/Documents/2.Itsolera-Red-Team-Internship---Selection-Email-1.png)
 - [Selection Email 2](1.Itsolera-Pvt-Ltd/Documents/3.Itsolera-Red-Team-Internship---Selection-Email-2.png)
+- [Completion Email](1.Itsolera-Pvt-Ltd/Documents/4.Itsolera-Red-Team-Internship---Completion-Email.png)
+- [Completion Letter](1.Itsolera-Pvt-Ltd/Documents/5.Itsolera-Red-Team-Internship---Completion-Letter.pdf)
 
 ### Internship Summary
 See [1.Itsolera-Pvt-Ltd/README.md](1.Itsolera-Pvt-Ltd/README.md) for a complete write‑up of what I learned.
